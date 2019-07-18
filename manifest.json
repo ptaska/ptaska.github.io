@@ -1,6 +1,9 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Наталія Раїник Психотерапевт",
+    "short_name": "Психолог",
+    "description": "Наталія Раїник - гештатльт психотерапевт, психолог",
+    "lang": "ua-UA",
+    "start_url": "/",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
