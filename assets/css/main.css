@@ -117,7 +117,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #6f7577;
-		font-family: "Raleway", "Helvetica", sans-serif;
+		font-family: "Raleway", "Helvetica", sans-serif, "Open Sans Regular", "Helvetica", "Arial", sans-serif;
 		font-size: 15pt;
 		font-weight: 400;
 		line-height: 1.75em;
@@ -222,7 +222,7 @@ input, select, textarea {
 
 	code {
 		background: rgba(144, 144, 144, 0.075);
-		font-family: "Courier New", monospace;
+		font-family: "Courier New", monospace, "Open Sans Regular", "Helvetica", "Arial", sans-serif;
 		font-size: 0.9em;
 		margin: 0 0.25em;
 		padding: 0.25em 0.65em;
@@ -230,7 +230,7 @@ input, select, textarea {
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Courier New", monospace;
+		font-family: "Courier New", monospace, "Open Sans Regular", "Helvetica", "Arial", sans-serif;
 		font-size: 0.9em;
 		margin: 0 0 2em 0;
 	}
@@ -1849,7 +1849,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
+			font-family: 'Font Awesome 5 Free', "Open Sans Regular", "Helvetica", "Arial", sans-serif;
 			font-weight: 900;
 		}
 
@@ -2095,7 +2095,7 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: 'Font Awesome 5 Free';
+				font-family: 'Font Awesome 5 Free', "Open Sans Regular", "Helvetica", "Arial", sans-serif;
 				font-weight: 900;
 			}
 
@@ -2187,7 +2187,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
+			font-family: 'Font Awesome 5 Free', "Open Sans Regular", "Helvetica", "Arial", sans-serif;
 			font-weight: 400;
 		}
 
@@ -2204,7 +2204,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
+			font-family: 'Font Awesome 5 Brands', "Open Sans Regular", "Helvetica", "Arial", sans-serif;
 		}
 
 		.icon.major {
