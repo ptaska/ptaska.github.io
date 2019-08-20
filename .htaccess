@@ -1,0 +1,5 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} .
+RewriteCond %{HTTP_HOST} !^nataliarainyk.com
+RewriteRule (.*) https://nataliarainyk.com/$1 [R=301,L]
